@@ -1,0 +1,10 @@
+/build/
+*.exe
+*.ico
+!/RdpSessions.ico
+*.lnk
+*.rdp
+app-id.txt
+launcher-title.txt
+shortcut-root.txt
+.rdp-menu-order
